@@ -1,0 +1,275 @@
+﻿
+<!DOCTYPE html>
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="da">
+<head id="m_htmlheadctrl"><meta charset="UTF-8" /><meta name="google" value="notranslate" /><meta http-equiv="content-type" content="text/html;charset=utf-8" /><meta http-equiv="Content-Style-Type" content="text/css" /><meta name="msapplication-tooltip" content="Tooltip: Starter Lectio" /><meta name="msapplication-window" content="width=1024;height=768" /><meta name="msapplication-navbutton-color" content="#2033FF" /><meta name="viewport" content="width=device-width,minimum-scale=0.5,maximum-scale=2.5,initial-scale=1" /><title>
+	Lectio Log ind - Lectio - NEXT
+</title><link rel="shortcut icon" href="/lectio/img/favicon64.ico" /><link rel="apple-touch-icon" sizes="144x144" href="/lectio/img/apple-touch-icon-144x144-precomposed.png" /><link rel="apple-touch-icon" sizes="114x114" href="/lectio/img/apple-touch-icon-114x114-precomposed.png" /><link rel="apple-touch-icon" sizes="72x72" href="/lectio/img/apple-touch-icon-72x72-precomposed.png" /><link rel="apple-touch-icon" href="/lectio/img/apple-touch-icon-precomposed.png" /><link rel="icon" sizes="57x57" type="image/png" href="/lectio/img/favicon57.png" /><link rel="icon" sizes="114x114" type="image/png" href="/lectio/img/favicon114.png" /><link href="/lectio/content/lectio-css.bundle.css?DummyID=m4seQkXL-5-gXdqiSgvugw2" rel="stylesheet" type="text/css" media="all" /></head>
+<body  style='text-align: center;'>
+
+<meta name="application-name" content="Lectio- NEXT" />
+<meta name="msapplication-starturl" content="/lectio/518/default.aspx" />
+
+<noscript>
+	<meta http-equiv="Refresh" content="0;URL=/lectio/ErrorNoJava.aspx" />
+	<br /><br /><h1>ADVARSEL!!</h1>Lectio kræver JavaScript.<br /><br /><a href="/lectio/ErrorNoJava.aspx">Klik HER</a>
+</noscript>
+
+<div class="ls-master-container1" id="masterContent" >
+<form method="get" action="ContentSearch.aspx" id="search" name="search">
+	<input type="hidden" name="query"/>
+</form>
+<form method="post" action="./login.aspx?prevurl=ExerciseFileGet.aspx%3ftype%3delevopgave%26entryid%3d23136273788" id="aspnetForm" class="ls-master-container2" autocomplete="off">
+<input type="hidden" name="time" id="time" value="0" />
+<input type="hidden" name="__SCROLLPOSITION" id="__SCROLLPOSITION" value="" />
+<input type="hidden" name="__VIEWSTATEX" id="__VIEWSTATEX" value="rQAAAGlpZQk1NDg4MjIyMjVpbAJrAIFsAmhpZGwCZwJpbAJrAWUDb2ZmbASBaWRsAoFpZGwCgWlkbAJoaWpkam4BZQcyMDE5LzIwbgFlBDIwMTl+AXFsAWhkZwNpZGwCZwVpZGwCaGlkbAJnB2lkbAaBaWwCawJlBE5FWFRkZwVpZGwCgWlkbAKBaWwCawNlAjUwZGcHaWRsAoFpZGwCgWlqaWwCawRwZGRkZGQFAAAAE1ZhbGlkYXRlUmVxdWVzdE1vZGUMYXV0b2NvbXBsZXRlCWlubmVyaHRtbAltYXhsZW5ndGgHQ2hlY2tlZABph74VGSqKCozNDkc1zSKQ1AzmMQ==" />
+<input type="hidden" name="__VIEWSTATEY_KEY" id="__VIEWSTATEY_KEY" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="" />
+
+
+<script src="/lectio/content/vendor.bundle.js?DummyID=VGG2Q5gd9MoD7ZDdAhoIwQ2" type="text/javascript"></script>
+<script src="/lectio/content/lectio.bundle.js?DummyID=jZ8kue7qK-jspX8dXh9quQ2" type="text/javascript"></script>
+<script src="/lectio/content/vendor-post.bundle.js?DummyID=bBLQjwzfi0uOpLwdtqUeww2" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="La4sX0KLZnBvuo3lU6frU5bklk8/aOVZXyzqSAR34u1UbSdeVv0wqQ7DYaKJr9qiiGh5I4VURMukeS2v8qJ8uoDFMnhtEliKQWs9CxBcQwDCbcireIrIGtejmVBqTe4uEzFUJFt5cCdbxxARBacUEtvaqd3LVxn5MzORanefkXCqIJxaG5oRMMOeO9UwAGm3Bgip6FPI/ugVd0TC/01u90yez7pCCiubxkP24VjLsiVJ7w1CDwQPGZjf2zZthJQT" />
+<input type="submit" name="m$defaultformbtn" value="" onclick="javascript:LectioJSUtils.FormDefaultButtonActivated(); return false;WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;m$defaultformbtn&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="m_defaultformbtn" tabindex="-1" class="hidetabinputbutton" aria-hidden="true" />
+<header class="lectioBorderLeft lectioBorderRight noprint" role="banner">
+<div id="m_masterHeaderDiv" class="ls-master-header">		
+	<div id="m_masterleftDiv" class="ls-master-header-institution">
+		NEXT - Sukkertoppen Gymnasium
+		
+		&nbsp;<select name="m$ChooseTerm$term" id="m_ChooseTerm_term" disabled="disabled" class="aspNetDisabled yearselect">
+	<option selected="selected" value="2019">2019/20</option>
+
+</select>
+
+		&nbsp;  
+		
+	</div>
+</div>
+<!-- Start Toolbar -->
+<nav id="m_mastermenu" class="lectioToolbar lectioBorderTop lectioBorderBot" role="navigation">
+	<div class="floatLeft">
+		
+		<div class='button'><a href="/lectio/518/default.aspx" data-role="button" tabindex='0' id="m_defaultaspxLink">Hovedmenu</a></div>
+		
+		
+		
+		<div class='button'><a href="/lectio/518/login.aspx" data-role="button" tabindex='0' id="m_LoginOutLink">Log ind</a></div>
+		<div class='button'><a href="/lectio/518/default.aspx?menu=kontakt&amp;prevurl=login.aspx%3fprevurl%3dExerciseFileGet.aspx%253ftype%253delevopgave%2526entryid%253d23136273788" data-role="button" tabindex='0' id="m_kontaktLink">Kontakt</a></div>
+		<span class="ls-hidden-smallscreen"><div class='button'><a href="/lectio/518/help/mainhelp.aspx?prevurl=login.aspx%3fprevurl%3dExerciseFileGet.aspx%253ftype%253delevopgave%2526entryid%253d23136273788" data-role="button" tabindex='0' id="m_HelpLink">Hjælp</a></div></span>
+		
+						
+		
+		
+	</div>
+	<div class="floatRight">
+		<div class="ls-hidden-smallscreen">
+	
+								
+		
+</div>
+	</div>
+	
+</nav>
+<!-- End Toolbar -->
+</header>
+<section id="m_outerContentFrameDiv" class="outerContentFrame" role="main">
+	<div id="m_helptipDiv" style="height:1em;">
+		
+
+<script type="text/javascript">
+	function toggleTip(helptipUrl, container, offsetElement) {
+		$(container).
+			find('iframe').
+			attr("src", helptipUrl);
+		$(container).
+			show().
+			position({ my: 'right top', at: 'right bottom', of: offsetElement, collision: 'none' }).
+			draggable().
+			resizable();
+	}
+</script>
+
+
+
+
+	</div>
+	
+		<div id="m_HeaderContent_pageHeader" class="pageHeader">
+			<div id="MainTitle" class="maintitle" role="heading" aria-level="1">Lectio Log ind</div>
+		</div>
+	
+
+	<div id="contenttable" style="clear:both" class="ls-content">
+
+
+
+	<script type="text/javascript">
+		if (!LectioCookie.supportsCookies()) {
+			if (self !== top) {
+				top.location.replace(self.location.href);
+			}
+			document.write('<' + 'SPAN class="wizarderrortxt">Da din browser ikke tillader brugen af per-session cookies, er det ikke muligt at benytte Lectio.<' + 'BR><' + 'BR><' + '/SPAN>');
+		}
+	</script>
+	
+	<script type="text/javascript">
+		document.addEventListener("DOMContentLoaded",
+			function () {
+				setTimeout(function () {
+					var isIframed = window.self !== window.top;
+					var htmlElement = document.getElementById('m_Content_username2');
+					
+					try {
+						htmlElement.focus();		
+						htmlElement.select();		
+					} catch (eee) {
+						JSErrorHandling.reportJSError('htmlElement.select()', 'isIframed:' + isIframed + ' ' + eee);
+						return;
+					}
+
+				}, 20);
+			});
+	</script>
+
+	<div id="m_Content_panel">
+	
+		Her kan du
+			indtaste dit brugernavn og adgangskode.<br />
+		Der skelnes mellem store og små bogstaver i adgangskoden.<br />
+		Brugernavn og adgangskode udleveres af skolens administration.<br />
+		<br />
+
+		
+
+
+		
+			<script type="text/javascript">
+				//vigtigt at vi ikke bruger jQuery her, da jQuery ikke kan loades for gamle browsere ( <=IE8 )
+				window.onload = function() {
+					if (navigator.userAgent.match(/ MSIE /i) !== null) {
+						document.getElementById('browserIeWarning').style.display = "block";
+					}
+				}
+
+				$(function () {
+					PostBackHelper.NotificationReceived.then(function () {
+						window.location.href = LectioJSUtils.GetBaseSchoolURL() + '/forside.aspx';
+					});
+				});
+
+				function prepareSubmit() {
+					// Stop "husk password?".
+					var pwdinput = $('#password2');
+					$('#passwordHidden').val(pwdinput.val());
+					var replacement = $('<span>Verificerer kodeord...</span>');
+					pwdinput.replaceWith(replacement);
+					return true;
+				}
+			</script>
+
+			<div class="infoText" style="margin-left: 10px; display: none;" id="browserIeWarning">
+				<span style="color: red">Du bruger Internet Explorer 10 eller ældre.</span><br />
+				Disse browsere er ikke længere understøttet i Lectio.<br />
+				Vi anbefaler at du bruger en af følgende browsere:
+				<ul class="infoText">
+					<li><a href="https://www.microsoft.com/da-dk/download/internet-explorer.aspx">Internet Explorer 11</a></li>
+					<li>Edge (Windows 10)</li>
+					<li><a href="https://www.google.com/intl/da/chrome/browser/">Google Chrome</a></li>
+					<li><a href="http://www.mozilla.org/da/firefox/new/">Mozilla Firefox</a></li>
+				</ul>
+			</div>
+		
+
+
+		
+<section class='island  smallBlock defaultBlockHeight' >
+<div role='heading' class='islandHeaderContainer'><span class='islandHeader'>Lectio log ind</span></div>
+<div id='m_Content_LectioDetailIsland1_pa' class='islandContent'>
+
+			<table class="ls-std-table-inputlist">
+				<tr id="schoolnametr">
+					<td id="m_Content_schoolnametd" colspan="2" style="height: 30px" class="infoText">NEXT</td>
+	
+				</tr>
+				<tr id="m_Content_usernametr">
+		<td valign="bottom">Brugernavn:</td>
+		<td valign="bottom">
+						<input name="m$Content$username2" type="text" id="m_Content_username2" style="width: 130px" maxlength="30" onkeypress="CapsLock.capsDetect(event, &#39;capsWarning&#39;)" onkeyup="CapsLock.capsToggle(event, &#39;capsWarning&#39;)" onblur="CapsLock.capsReset(event, &#39;capsWarning&#39;)" autocomplete="off" /></td>
+	</tr>
+	
+				<tr id="m_Content_passwordtr">
+		<td valign="bottom">Adgangskode:</td>
+		<td valign="bottom">
+						<input name="m$Content$password2" type="password" id="password2" style="width: 130px" maxlength="50" onkeypress="CapsLock.capsDetect(event, &#39;capsWarning&#39;)" onkeyup="CapsLock.capsToggle(event, &#39;capsWarning&#39;)" onblur="CapsLock.capsReset(event, &#39;capsWarning&#39;)" autocomplete="off" />
+						<input name="m$Content$passwordHidden" type="hidden" id="passwordHidden" />
+					</td>
+	</tr>
+	
+				
+				<tr>
+					<td>
+						</td>
+					<td><span class="alert" id="capsWarning" style="display: none;">Caps Lock er slået til</span></td>
+				</tr>
+			</table>
+		
+</div>
+</section>
+
+
+		<table class="buttonRow">
+			<tr id="m_Content_submitusertr">
+		<td class="buttonsRight">
+					<div class='button'><a href="#" data-role="button" tabindex='0' onclick='if(!prepareSubmit()){ return LectioJSUtils.ReturnPreventDefault(event); } WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;m$Content$submitbtn2&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true)); return false;' id="m_Content_submitbtn2">Log ind</a></div>
+				</td>
+	</tr>
+	
+		</table>
+		
+	
+</div>
+
+	</div>
+</section>
+			
+<footer id="m_masterFooter" class="ls-master-footer">
+	<span id="m_masterfootermacomSpan" style="padding-left:0.5em"><a href="http://www.macom.dk" target="_blank" title="Besøg www.macom.dk">&copy; MaCom A/S</a></span>
+	<span id="m_masterfootermacomsupportSpan" class="ls-hidden-smallscreen"><a href="mailto:LectioSupport@macom.dk?subject=Lectio" title="Send e-mail til MaCom">E-mail</a></span>
+	<span id="m_masterfooterversioninfoSpan" class="ls-hidden-smallscreen"><a id="m_VersionInfoLink" title="Se versioninformation" href="/lectio/518/VersionInfo.aspx?prevurl=login.aspx%3fprevurl%3dExerciseFileGet.aspx%253ftype%253delevopgave%2526entryid%253d23136273788">Lectio version 17.186</a></span>
+	
+	<span>
+		<span id="m_masterfooternowSpan">18/5-2020  kl. 17:42</span>
+		<span id="m_masterfootertiltopSpan" style="width:10px">
+			<a href="#masterContent"><span title="Til top" style="font-size:1em;position:relative;top:0.1em">&nbsp;^&nbsp;</span></a>
+		</span>
+	</span>
+</footer>
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+ContextCard.InitContextCard("/lectio/518", "login.aspx?prevurl=ExerciseFileGet.aspx%3ftype%3delevopgave%26entryid%3d23136273788");
+window.SessionHelper && SessionHelper.Initialize(false, null, null, null);
+LectioExtensions.Init();
+LectioPageOps.InitScriptErrorHandling(true, false);
+LectioPageOps.PrepareAutoFocus();
+KeyboardNav.Initialize();
+LectioTextBox.Initialize();
+PostBackHelper.InitializeClickHelper();
+PostBackHelper.InitializePostBackOverride();
+LectioValidator.Initialize();
+LectioScript.Initialize();
+LectioCKEditor.Initialize();
+LectioWebform.Initialize();
+LectioCluetips.Initialize();
+LectioPageOps.PrepareMaintainScrollPosition(false);
+LectioContextMenu.Initialize(true);
+LectioPageOps.InitializeHistory(PageHistoryBehavior.PrevUrl);
+//]]>
+</script>
+</form>
+</div>
+
+</body>
+</html>
