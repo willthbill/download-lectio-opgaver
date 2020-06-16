@@ -6,6 +6,7 @@ const folder = process.argv[2];
 const outputfolder = process.argv[3];
 const existingFolders = {}
 const isWindows = process.platform === "win32";
+console.log(isWindows ? "using windows" : "using linux")
 const spacing = isWindows ? "\\" : "/";
 console.log("creating output folder...")
 if(!fs.existsSync(outputfolder)){
