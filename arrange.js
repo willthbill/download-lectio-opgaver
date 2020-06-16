@@ -49,6 +49,7 @@ fs.readdir(folder, (err, files) => {
         taskNumber++;
         console.log("READING task " + (taskNumber))
         console.log ("  reading metadata")
+        console.log(folder, spacing, files[idx])
         const metadata = JSON.parse(
             fs.readFileSync(
                 folder + spacing + files[idx++],
