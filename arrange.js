@@ -51,7 +51,7 @@ fs.readdir(folder, (err, files) => {
             )
         )
         console.log("   creating output folders for task...")
-        const temp = outputfolder + spacing + metadata.team.replace(spacing,"") + spacing + metadata.title.replace(spacing,"");
+        const temp = outputfolder + spacing + metadata.team.replace(spacing,"").replace(":","") + spacing + metadata.title.replace(spacing,"").replace(":","");
         if(existingFolders[metadata.team] == undefined){
             fs.mkdirSync(outputfolder + spacing + metadata.team);
             existingFolders[metadata.team] = {}
