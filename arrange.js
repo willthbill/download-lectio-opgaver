@@ -15,6 +15,20 @@ if(!fs.existsSync(outputfolder)){
     throw "Please empty output directory and delete the folder"
 }
 console.log("reading content of input folder...")
+
+const fixWindowsStuff = (s) => {
+    return s
+    .replace("/","")
+    .replace("\\","")
+    .replace(":","")
+    .replace("*","")
+    .replace("?","")
+    .replace("\"","")
+    .replace("<","")
+    .replace(">","")
+    .replace("|","")
+}
+
 fs.readdir(folder, (err, files) => {
     console.log("organisizing files in memory...")
     files = files.map(fileName => {
@@ -51,7 +65,7 @@ fs.readdir(folder, (err, files) => {
             )
         )
         console.log("   creating output folders for task...")
-        const temp = outputfolder + spacing + metadata.team.replace(spacing,"").replace(":","") + spacing + metadata.title.replace(spacing,"").replace(":","");
+        const temp = outputfolder + spacing + fixWindowsStuff(metadata.team) + spacing + fixWindowsStuff(metadata.title);
         if(existingFolders[metadata.team] == undefined){
             fs.mkdirSync(outputfolder + spacing + metadata.team);
             existingFolders[metadata.team] = {}
