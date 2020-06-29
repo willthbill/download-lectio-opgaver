@@ -21,7 +21,7 @@ setTimeout(async () => {
             window.history.back();
         }
     }
-}, 1000 + 1000 * Math.random());
+}, 300 + 1000 * Math.random());
 
 const amountOfTasks = () => {
     return Array.prototype.slice.call(document.getElementById("s_m_Content_Content_ExerciseGV")

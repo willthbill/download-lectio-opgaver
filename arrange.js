@@ -17,16 +17,21 @@ if(!fs.existsSync(outputfolder)){
 console.log("reading content of input folder...")
 
 const fixWindowsStuff = (s) => {
-    return s
-    .replace("/","")
-    .replace("\\","")
-    .replace(":","")
-    .replace("*","")
-    .replace("?","")
-    .replace("\"","")
-    .replace("<","")
-    .replace(">","")
-    .replace("|","")
+    let pre = "";
+    while(s != pre){
+        pre = s;
+        s = s
+        .replace("/","")
+        .replace("\\","")
+        .replace(":","")
+        .replace("*","")
+        .replace("?","")
+        .replace("\"","")
+        .replace("<","")
+        .replace(">","")
+        .replace("|","")
+    }
+    return s;
 }
 
 fs.readdir(folder, (err, files) => {
